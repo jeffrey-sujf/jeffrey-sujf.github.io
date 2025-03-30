@@ -3,9 +3,10 @@ secondary_name: "苏江舫"
 navbar_name: "Jeffrey Su"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- logo: /assets/images/badges/Columbia.png  # Logo is optional
   name: MA Columbia
-- name: MSc LSE
+- logo: /assets/images/badges/LSE sqaure.png
+  name: MSc LSE
 
 
 email: "your@email.com"
