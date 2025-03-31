@@ -4,7 +4,7 @@ navbar_name: "Jeffrey Su"
 
 positions:
 - logo: /assets/images/badges/Columbia blue.png  # Logo is optional
-  logo: /assets/images/badges/LSE sqaure.png
+  /assets/images/badges/LSE sqaure.png
   name: MA/MSc Student
 
 
