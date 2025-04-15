@@ -3,7 +3,7 @@ title:          "News Avoidance and the Ukranian War"
 date:           2025-03-27
 selected:       true
 # pub:            "International Conference on Machine Learning (ICML)"
-# pub_pre:        "Submitted to "
+# pub_pre:        "Submitted to"
 # pub_post:       'Under review'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       ""
