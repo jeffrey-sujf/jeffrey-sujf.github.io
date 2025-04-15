@@ -11,7 +11,7 @@ pub_post:       'Under review.'
 abstract: >-
   In Chinese society, the differences in political socialization paths between party members and non-member groups provide a key entry point for exploring the generation mechanism of out-group attitudes. Based on data from the China General Social Survey (CGSS2018), this study reveals that the party member group exhibits a high and stable degree of out-group tolerance, while the non-member group shows significant conditional characteristics...
 
-cover:          /assets/images/covers/CCP cover.jpg
+cover:          /assets/images/covers/CCP cover.png
 authors:
   - Jeffrey Su
   - Jinjin Liu
