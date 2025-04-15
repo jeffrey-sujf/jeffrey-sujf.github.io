@@ -4,7 +4,7 @@ date:           2024-12-27
 selected:       true
 # pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to Sociological Studies (社会学研究)"
-# pub_post:       'Under review.'
+pub_post:       'Ongoing'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       ""
 
