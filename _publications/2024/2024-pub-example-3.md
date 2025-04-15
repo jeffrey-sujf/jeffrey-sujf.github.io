@@ -1,22 +1,22 @@
 ---
-title:          "Convallis a cras semper auctor neque vitae rutrum quisque non tellus orci ac"
-date:           2024-05-12 00:01:00 +0800
-selected:       true
-pub:            "International Conference on Machine Learning (ICML)"
+title:          "Communist Party Membership and Outgroup Tolerance"
+date:           2025-03-27
+selected:       false
+# pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
+pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2024"
+# pub_date:       ""
 
 abstract: >-
-  Photo by Pineapple Supply Co. on Unsplash. Please put a tldr (too-long-didnt-read, 1~2 sentences) of your publication here. It is not recommended to put the actual abstract here because it is usually too long to fit in. $\LaTeX$ is supported. $a=b+c$.
+  In Chinese society, the differences in political socialization paths between party members and non-member groups provide a key entry point for exploring the generation mechanism of out-group attitudes. Based on data from the China General Social Survey (CGSS2018), this study reveals that the party member group exhibits a high and stable degree of out-group tolerance, while the non-member group shows significant conditional characteristics...
+
 cover:          /assets/images/covers/cover3.jpg
 authors:
-  - Your Name
-  - James Wang
-  - Some Other Name
-  - John Doe
-links:
-  Code: https://github.com/luost26/academic-homepage
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  - Jeffrey Su
+  - Jinjin Liu
+
+# links:
+  # Code: https://github.com/luost26/academic-homepage
+  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
