@@ -3,9 +3,9 @@ title:          "Communist Party Membership and Outgroup Tolerance"
 date:           2024-12-27
 selected:       false
 # pub:            "International Conference on Machine Learning (ICML)"
-# pub_pre:        "Submitted to "
+# pub_pre:        "Submitted to Sociological Studies (社会学研究)"
 pub_post:       'Under review.'
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       ""
 
 abstract: >-
