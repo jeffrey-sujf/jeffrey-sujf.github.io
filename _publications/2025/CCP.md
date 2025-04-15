@@ -9,10 +9,7 @@ pub_post:       'Ongoing'
 # pub_date:       ""
 
 abstract: >-
-  This paper aims to understand the complex relationship between the Russo-Ukrainian war and news avoidance behavior, 
-examining how individuals' engagement with news content changed before and after the conflict.
-By analyzing several factors—demographic factors, geographical proximity to the conflict zone, and historical context—this study tries to reveal 
-the mechanisms of news avoidance during times of geopolitical crisis.
+  This paper aims to understand the complex relationship between the Russo-Ukrainian war and news avoidance behavior, examining how individuals' engagement with news content changed before and after the conflict. By analyzing several factors—demographic factors, geographical proximity to the conflict zone, and historical context—this study tries to reveal the mechanisms of news avoidance during times of geopolitical crisis...
 
 cover:          /assets/images/covers/CCP cover.png
 authors:
