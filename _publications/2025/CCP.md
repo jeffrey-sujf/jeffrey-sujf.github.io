@@ -1,15 +1,18 @@
 ---
-title:          "Communist Party Membership and Outgroup Tolerance"
+title:          "News Avoidance and Ukrainian War"
 date:           2024-12-27
 selected:       true
 # pub:            "International Conference on Machine Learning (ICML)"
 # pub_pre:        "Submitted to Sociological Studies (社会学研究)"
-pub_post:       'Under review.'
+# pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 # pub_date:       ""
 
 abstract: >-
-  In Chinese society, the differences in political socialization paths between party members and non-member groups provide a key entry point for exploring the generation mechanism of out-group attitudes. Based on data from the China General Social Survey (CGSS2018), this study reveals that the party member group exhibits a high and stable degree of out-group tolerance, while the non-member group shows significant conditional characteristics...
+  This paper aims to understand the complex relationship between the Russo-Ukrainian war and news avoidance behavior, 
+examining how individuals' engagement with news content changed before and after the conflict.
+By analyzing several factors—demographic factors, geographical proximity to the conflict zone, and historical context—this study tries to reveal 
+the mechanisms of news avoidance during times of geopolitical crisis.
 
 cover:          /assets/images/covers/CCP cover.png
 authors:
