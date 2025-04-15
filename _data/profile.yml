@@ -10,7 +10,7 @@ positions:
 
 
 email: "js6698@columbia.edu"
-# cv_link: link-to-your-cv-file
+cv_link: link-to-your-cv-file
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -36,11 +36,17 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash
 
 education:
+- name: London School of Economics and Politics
+  logo: /assets/images/badges/LSE sqaure.png
+  position: >-
+    MSc Culture and Conflict in Global Europe
+  date: Sep. 2025 - 2026
+
 - name: Columbia University
   logo: /assets/images/badges/Columbia blue.png
   position: >- 
     MA European History, Politics and Society
-  date: Sep. 2024 - present
+  date: Sep. 2024 - 2026
 - name: University of Macau
   logo: /assets/images/badges/UM.png
   position: B.S. in Sociology
