@@ -3,11 +3,12 @@ secondary_name: "苏江舫"
 navbar_name: "Jeffrey Su"
 
 positions:
-- logos: /assets/images/badges/Columbia blue.png
-  name: MA
-- logos: /assets/images/badges/LSE sqaure.png
-  name: MSc Student
+- name: MA
+  logos: /assets/images/badges/Columbia blue.png
 
+- name: MSc Student
+  logos: /assets/images/badges/LSE sqaure.png
+  
 email: "js6698@columbia.edu"
 cv_link: /assets/Jeffrey_resume 4.1.pdf
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
