@@ -3,11 +3,11 @@ secondary_name: ""
 navbar_name: "Jeffrey Su"
 
 positions:
-- name: MA
+- name: MA Student
   logos: /assets/images/badges/Columbia blue.png
 
-- name: MSc Student
-  logos: /assets/images/badges/LSE sqaure.png
+# - name: MSc #Student
+#  logos: /assets/images/badges/LSE sqaure.png
   
 email: "js6698@columbia.edu"
 cv_link: /assets/Jeffrey_resume 4.1.pdf
