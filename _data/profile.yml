@@ -3,14 +3,16 @@ secondary_name: ""
 navbar_name: "Jeffrey Su"
 
 positions:
+- name: DPhil Student
+
 - name: MA Student
   logos: /assets/images/badges/Columbia blue.png
 
 # - name: MSc #Student
 #  logos: /assets/images/badges/LSE sqaure.png
   
-email: "js6698@columbia.edu"
-cv_link: /assets/Jeffrey_resume 4.1.pdf
+email: "jeffreysu@gmail.com"
+cv_link: /assets/Jeffrey_resume_25_11_24.pdf
 # gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
 # github: your_github_id
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -23,7 +25,7 @@ cv_link: /assets/Jeffrey_resume 4.1.pdf
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a master's student with a strong interest in sociology, political science, and comparative research methodology,
+    I am an incoming DPhil student with a strong interest in sociology, political science, and comparative research methodology,
     particularly interested in analyzing behaviors and values that are influenced by structural changes.
   </p>
   <p>
