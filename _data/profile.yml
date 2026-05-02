@@ -3,9 +3,7 @@ secondary_name: ""
 navbar_name: "Jeffrey Su"
 
 positions:
-- name: DPhil Student
-
-- name: MA Student
+- name: MA, Soon-to-be DPhil Student
   logos: /assets/images/badges/Columbia blue.png
 
 # - name: MSc #Student
