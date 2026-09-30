@@ -35,22 +35,21 @@ education:
 - name: Oxford University
   logo: logos: /assets/images/badges/Oxford-University-Circlet.png
   position: >-
-  data: Oct. 2026 - 2029
-
+  data: 2026 - 2029
 - name: London School of Economics and Politics
   logo: /assets/images/badges/LSE sqaure.png
   position: >-
     MSc Culture and Conflict in Global Europe
-  date: Sep. 2025 - 2026
+  date: 2025 - 2026
 - name: Columbia University
   logo: /assets/images/badges/Columbia blue.png
   position: >- 
     MA European History, Politics and Society
-  date: Sep. 2024 - 2026
+  date: 2024 - 2026
 - name: University of Macau
   logo: /assets/images/badges/UM.png
-  position: B.S. in Sociology
-  date: Sep. 2020 - Jul. 2024
+  position: Bachelor of Science in Sociology
+  date: 2020 - Jul. 2024
 
 # experience:
 # - name: University of Macau
