@@ -5,9 +5,6 @@ navbar_name: "Jeffrey Su"
 positions:
 - name: DPhil Student
   logos: /assets/images/badges/Oxford-University-Circlet.png
-
-# - name: MSc #Student
-#  logos: /assets/images/badges/LSE sqaure.png
   
 email: "jeffreysu@gmail.com"
 cv_link: /assets/Jeffrey_resume_25_11_24.pdf
@@ -35,6 +32,11 @@ portrait_caption: >-
   Shot in 2024
 
 education:
+- name: Oxford University
+  logo: logos: /assets/images/badges/Oxford-University-Circlet.png
+  position: >-
+  data: Oct. 2026 - 2029
+
 - name: London School of Economics and Politics
   logo: /assets/images/badges/LSE sqaure.png
   position: >-
